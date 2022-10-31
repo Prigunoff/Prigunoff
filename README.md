@@ -15,6 +15,6 @@ I'm currently studying Java
 ![](https://github-profile-trophy.vercel.app/?username=Prigunoff&theme=onedark&no-frame=false&no-bg=true&margin-w=4)
 
 ### 😂 Random Dev Meme
-<img src="https://global.discourse-cdn.com/codecademy/optimized/5X/2/4/a/9/24a9fbc9fb557214282e9661e8ff48594cecf8b2_2_690x388.jpeg" width="512px"/>
+<img src="[https://global.discourse-cdn.com/codecademy/optimized/5X/2/4/a/9/24a9fbc9fb557214282e9661e8ff48594cecf8b2_2_690x388.jpeg](https://img.devrant.com/devrant/rant/r_2320300_8CgA3.jpg)" width="512px"/>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
